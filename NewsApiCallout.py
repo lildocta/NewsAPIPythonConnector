@@ -3,7 +3,7 @@ CREATEDBY: Calvin O'Keefe
 DATE:03/2/2021
 DESCRIPTION: 
     Queries for all news articles related to a keyword (the variable query) 
-    and stores the first 100 results in a SQL Database
+    and stores the first 100 results in a SQL Database https://newsapi.org/
 SETUP:
     Install all required libraries below 
     Create a NewsAPI dev account and generate a key and upate the api variable with your key
